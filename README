@@ -1,0 +1,4 @@
+//   This program takes a positive integer that is greater than 9 and displays^M
+//   a message if the integer is in ascending order, prints out the integer^M
+//   in reverse order, prints out the sum of the integers, displays the sum^M
+//   of the squares from 0 to n, and displays the number vertically.^M
